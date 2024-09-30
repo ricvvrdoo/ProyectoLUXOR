@@ -1,4 +1,4 @@
-.home-content {
+.reservas-content {
     background-color: var(--ion-background-color);
   }
   
@@ -6,6 +6,14 @@
     --background: var(--ion-color-primary);
     --color: var(--ion-color-secondary);
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  
+  ion-card {
+    --background: var(--ion-card-background);
+  }
+  
+  ion-card-title {
+    color: var(--ion-card-title-color);
   }
   
